@@ -45,7 +45,7 @@ assigned group's master repository on GitHub.
 
 #### git / GitHub
 
-Each group will have five branches: master and 4 others with your GitHub name
+Each group will have five branches: master and four others with your GitHub name
 as a prefix. 
 You will only be able to push to your branch as the master branch is protected. 
 To get your work into branch master (the only branch that will be
